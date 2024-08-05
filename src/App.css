@@ -1,0 +1,12 @@
+@import './styles/fonts.css';
+
+:root {
+    --white: #ffffff;
+}
+* {
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+    font-size: 16px;
+}

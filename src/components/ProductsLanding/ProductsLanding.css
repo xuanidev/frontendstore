@@ -1,0 +1,17 @@
+.products-landing{
+    padding: 3em 4rem;
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+}
+.products-landing-tittle{
+    margin-block-start: 0.0em;
+    margin-block-end: 0.0em;
+}
+.prodcuts-landing-cards{
+    height: auto;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
